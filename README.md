@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ari Nurzaman</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Desa 4.0**
+- 🔭 I’m working on **360 VPRO**
 
 - 👯 I’m looking to collaborate on **Philosophycode**
 
