@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ari Nurzaman</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 🔭 I’m working on [MITREKA SOLUSI INDONESIA](https://www.360vpro.com/](https://mitrekasolusi.co.id/))
+- 🔭 I’m working on [MITREKA SOLUSI INDONESIA](https://mitrekasolusi.co.id/)
 
 - 👯 I’m looking to collaborate on **Philosophycode**
 
